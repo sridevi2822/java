@@ -1,8 +1,5 @@
 package com.fund;
 
-
-
-
 public class BankAccount {
 	int accountnumber;
 	String accountholdername;
