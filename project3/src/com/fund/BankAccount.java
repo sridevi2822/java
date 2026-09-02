@@ -26,7 +26,7 @@ public class BankAccount {
 		this.branch=b1.branch;
 		this.accountnumber=accountnumber;
 		this.accountholdername=accountholdername;
-		
+
 		
 	}
 	
