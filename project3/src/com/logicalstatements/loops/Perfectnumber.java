@@ -3,7 +3,7 @@ package com.logicalstatements.loops;
 import java.util.Scanner;
 
 public class Perfectnumber {
-	int sum=0;
+	//int sum=0;
 
 
 	void main(String[] args) {
@@ -23,7 +23,7 @@ public class Perfectnumber {
 //				count++;
 //				if(count==2) {
 //					System.out.println(i);
-//					break;
+//				//	break;
 //				}
 //			}
 //		}
@@ -39,7 +39,6 @@ public class Perfectnumber {
 				sum+=i;
 			}
 		}
-		System.out.println(+count);
 		return sum==n;
 	}
 
